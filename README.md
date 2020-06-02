@@ -35,5 +35,4 @@ python app.py
 
 ## Authors
 
-Contributors names and contact info
 Muskan 
