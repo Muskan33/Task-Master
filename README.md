@@ -4,7 +4,7 @@ A simple task managing app.
 
 ## Description
 
-A webapp made using flask to handle our day to day tasks. tasks can be added, updated and deleted.
+A webapp made using flask to handle our day to day tasks. Tasks can be added, updated and deleted.
 
 ## Getting Started
 
