@@ -18,10 +18,6 @@ A webapp made using flask to handle your day to day tasks. Tasks can be added, u
 
 ### Executing program
 
-* Activate the virtual environment by running the following command in your terminal
-```
-env\Sripts\activate
-```
 * Install all the dependencies and packages by running 
 ```
 pip install -r requirements.txt
