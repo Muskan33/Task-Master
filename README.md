@@ -1,10 +1,10 @@
 # TASK MASTER
 
-A simple task managing app.
+A simple task managing app for Bubbsi's personal use.
 
 ## Description
 
-A webapp made using flask to handle our day to day tasks. Tasks can be added, updated and deleted.
+A webapp made using flask to handle your day to day tasks. Tasks can be added, updated and deleted.
 
 ## Getting Started
 
@@ -30,9 +30,9 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-* Open http://127.0.0.1:5000/ in your web browser and use the app for your personal use.
+* Open http://127.0.0.1:5000/ in your web browser and use the app for your and Pinky's work.
 
 
 ## Authors
 
-Muskan 
+MOTA
