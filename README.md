@@ -1,6 +1,6 @@
 # TASK MASTER
 
-A simple task managing app for Bubbsi's personal use.
+A simple task managing app for personal use.
 
 ## Description
 
@@ -26,9 +26,6 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-* Open http://127.0.0.1:5000/ in your web browser and use the app for your and Pinky's work.
+* Open http://127.0.0.1:5000/ in your web browser.
 
 
-## Authors
-
-MOTA
